@@ -1,4 +1,4 @@
-module awsprofiles
+module github.com/mathisve/awsprofiles
 
 go 1.17
 
